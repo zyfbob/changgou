@@ -1,0 +1,12 @@
+
+[	java:S112Û"FDefine and throw a dedicated exception instead of using a generic one.(¯þ™i
+o
+java:S2293'"YReplace the type specification in this constructor call with the diamond operator ("<>").(§æÉ¶
+j
+java:S3252#"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(‹‹¥®úÿÿÿÿ
+j
+java:S32523"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(‹‹¥®úÿÿÿÿ
+o
+java:S22935"YReplace the type specification in this constructor call with the diamond operator ("<>").(èž¹º
+h
+java:S3776K"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(Í§Ëœ

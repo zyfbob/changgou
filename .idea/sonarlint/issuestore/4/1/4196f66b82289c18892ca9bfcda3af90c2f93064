@@ -1,0 +1,52 @@
+
+J
+java:S3740a"/Provide the parametrized type for this generic.(ø û”ùÿÿÿÿ
+E
+java:S37402"/Provide the parametrized type for this generic.(–ïÄ¤
+J
+java:S3740o"/Provide the parametrized type for this generic.(šìí“úÿÿÿÿ
+E
+java:S3740<"/Provide the parametrized type for this generic.(‹Í×ö
+u
+java:S2293Œ"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰ëÏªıÿÿÿÿ
+O	java:S106š"9Replace this use of System.out or System.err by a logger.(¿Ùºî
+u
+java:S2293¨"YReplace the type specification in this constructor call with the diamond operator ("<>").(ùš™Ïıÿÿÿÿ
+J
+java:S3740T"/Provide the parametrized type for this generic.(õ²°úÿÿÿÿ
+E
+java:S3740W"/Provide the parametrized type for this generic.(–×Éï
+J
+java:S3740?"/Provide the parametrized type for this generic.(…ñÕÍşÿÿÿÿ
+p
+java:S2293¯"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰ºè˜
+K
+java:S3740Ë"/Provide the parametrized type for this generic.(¡ğ½Ûüÿÿÿÿ
+V
+java:S1128";Remove this unused import 'com.changgou.user.pojo.Address'.(„ÎÛûüÿÿÿÿ
+F
+java:S3740Ç"/Provide the parametrized type for this generic.(é¼Ñ›
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰ëÏªıÿÿÿÿ
+t
+java:S2293?"YReplace the type specification in this constructor call with the diamond operator ("<>").(…ñÕÍşÿÿÿÿ
+e
+java:S1192š"NDefine a constant instead of duplicating this literal "Authorization" 3 times.(¿Ùºî
+E
+java:S3740/"/Provide the parametrized type for this generic.(Ùã‚Ã
+t
+java:S2293K"YReplace the type specification in this constructor call with the diamond operator ("<>").(§û­½úÿÿÿÿ
+u
+java:S2293¼"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÓùÙúÿÿÿÿ
+u
+java:S2293¿"YReplace the type specification in this constructor call with the diamond operator ("<>").(ùš™Ïıÿÿÿÿ
+u
+java:S2293Ÿ"YReplace the type specification in this constructor call with the diamond operator ("<>").(§û­½úÿÿÿÿ
+u
+java:S4144‰"YUpdate this method so that its implementation is not identical to "findById" on line 124.(´ŞæÏøÿÿÿÿ
+J
+java:S3740r"/Provide the parametrized type for this generic.(ı¦¦äşÿÿÿÿ
+E
+java:S3740f"/Provide the parametrized type for this generic.(æ¸Ô
+W
+java:S1128"ARemove this unused import 'com.changgou.user.config.TokenDecode'.(·ÔŒÔ
